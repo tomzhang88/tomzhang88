@@ -1,10 +1,11 @@
 h1 a {  color: #FCA205;  }
 
-body { padding-left: 20px;  }
+body { padding-left: 5px;  }
 
 .page-header {
         background-color: #ff9400;
         margin-top: 0;
+        margin-bottom: 5px;
         padding: 20px 20px 20px 40px;
     }
 
@@ -14,7 +15,7 @@ body { padding-left: 20px;  }
         text-decoration: none;
     }
 
-.content { margin-left: 50px;  }
+.content { margin-left: 0px;  }
 
 .date {
         float: right;
@@ -40,7 +41,7 @@ body { padding-left: 20px;  }
         margin-bottom: 10px;
         border:1px solid black;
         border-color: #ff9400;
-        width: 100%
+        margin-top: 5px;
     }
 
     .post h1 a, .post h1 a:visited {
